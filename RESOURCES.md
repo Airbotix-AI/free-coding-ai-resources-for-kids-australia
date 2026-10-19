@@ -33,10 +33,16 @@ Only publicly accessible company repositories are listed here. Private implement
 
 ## Free maths resources by age and Australian year
 
-Choose a separate Markdown language edition. Each covers preschool and Foundation–Year 12, with14 resource entries, free-access conditions, sources and worked examples. Age/year matching is guidance, not a certified curriculum mapping. External resources keep their own language support.
+Choose a separate Markdown language edition. Each covers preschool and Foundation–Year 12, with 14 resource entries, free-access conditions, sources and worked examples. Age/year matching is guidance, not a certified curriculum mapping. External resources keep their own language support.
 
 | Guide language | Public repository |
 |---|---|
 | English | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) |
 | 简体中文 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) |
 | 한국어 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko) |
+
+## Free English and reading resources by age and Australian year
+
+Twelve resource entries, a preschool–Year 12 guide, official sources, access limits and complete original reading examples. Choose the guide language; external services retain their own language support.
+
+[English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
