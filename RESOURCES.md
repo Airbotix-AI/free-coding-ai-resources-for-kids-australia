@@ -50,3 +50,9 @@ Eighteen resource entries, a preschool–Year 12 guide, official sources, access
 ## Airbotix cheatsheets to read and share
 
 Complete Markdown reading guides and English maths sharing editions: [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia/blob/main/CHEATSHEETS.md) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh/blob/main/CHEATSHEETS.md) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko/blob/main/CHEATSHEETS.md). The index states language, scope and review status for each sheet.
+
+## Dedicated Airbotix cheatsheet repository
+
+[Dedicated Airbotix cheatsheet repository](https://github.com/Airbotix-AI/australian-school-cheatsheets)
+
+[English](https://github.com/Airbotix-AI/australian-school-cheatsheets) · [简体中文](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh) · [한국어](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)
