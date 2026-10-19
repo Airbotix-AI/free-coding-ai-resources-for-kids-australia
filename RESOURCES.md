@@ -30,3 +30,13 @@ The six article bodies and headings were opened in a browser on **19 October 202
 Only publicly accessible company repositories are listed here. Private implementation or curriculum repositories are not public learning resources.
 
 [Full resource table](README.md) · [Learning paths](LEARNING-PATHS.md) · [Worked examples](WORKED-EXAMPLES.md) · [Source audit](SOURCES.md) · [Airbotix Family Resources](https://airbotix.ai/resources/)
+
+## Free maths resources by age and Australian year
+
+Choose a separate Markdown language edition. Each covers preschool and Foundation–Year 12, with14 resource entries, free-access conditions, sources and worked examples. Age/year matching is guidance, not a certified curriculum mapping. External resources keep their own language support.
+
+| Guide language | Public repository |
+|---|---|
+| English | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) |
+| 简体中文 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) |
+| 한국어 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko) |
